@@ -1,2 +1,6 @@
 Hi I am animesh
+<<<<<<< HEAD
 I am aniket
+=======
+I am niket
+>>>>>>> raj
